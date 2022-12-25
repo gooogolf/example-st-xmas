@@ -1,6 +1,6 @@
-# Name of Streamlit App
+# example streamlit xmas app
 
-Description of the app ...
+Blah Blah Blah
 
 ## Demo App
 
