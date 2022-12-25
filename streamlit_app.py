@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('🎈 App Name')
+st.title('🎈 ST Xmas')
 
-st.write('Hello world!')
+st.write('Bonan matenon, sinjoro! Ĝojan Kristnaskon al vi!')
